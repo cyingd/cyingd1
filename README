@@ -1,0 +1,8 @@
+**Language as Data – Final Project** 
+Authors: Ying Dehing and Tara de Groot, Course Language as Data, Faculty of Humanities, Vrije Universiteit Amsterdam, The Netherlands. 
+**General Introduction**
+The dataset was composed for the course Language as Data at the Vrije Universiteit Amsterdam (December 2024). It was made public to ensure transparency of the dataset and methods used. 
+**Purpose *
+The purpose of this dataset was to develop a machine translation model that could translate Dutch text into English. 
+**Description of the data in this data set**
+The dataset contains of the first 10,000 lines of the Europarl dataset, which were restructured to ensure accurate translation. This dataset was augmented using synthetic data reflecting five different challenging linguistic phenomena which was generated using Copilot.
